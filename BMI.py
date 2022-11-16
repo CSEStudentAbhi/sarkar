@@ -12,6 +12,6 @@ if the_BMI <= 18.5:
 elif the_BMI <= 24.9:  
     print("Awesome! You are healthy.")  
 elif the_BMI <= 29.9:  
-    the_print("Eee! You are over weight.")  
+    print("Eee! You are over weight.")  
 else:  
     print("Seesh! You are obese.")  
